@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">gchat</string>
+    <string name="title_activity_nav_compose_app">NavComposeApp</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_activity_authentication_option">AuthenticationOption</string>
+    <string name="title_activity_widgets">Widgets</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_shape">Shape</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
